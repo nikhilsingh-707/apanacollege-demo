@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my repository
 <br>
-Author - Nikhil Singh
+Author - Nikhil Singh (Data Analyst)
